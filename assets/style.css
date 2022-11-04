@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-section {
+section, header, main, footer {
     width: 1170px;
     margin: 0 auto;
 }
