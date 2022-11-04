@@ -1,13 +1,7 @@
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
-section, header, main, footer {
+section, 
+header,
+main,
+footer {
     width: 1170px;
     margin: 0 auto;
-}
-body {
-    background-color: rgb(233, 235, 175);
 }
